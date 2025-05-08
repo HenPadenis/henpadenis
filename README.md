@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Henrique Pagani
 
-- 💻 Hoje trabalho como Assistente de Automação 
+- 💻 Hoje trabalho como Assistente de Automação/Programação 
 - 📖 Estudando React/NodeJS 
 - 📲 Formado em Análise e Desenvolvimento de Sistemas e Pós-graduando em Desenvolvimento FullStack
 
